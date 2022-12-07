@@ -1,0 +1,11 @@
+Usuario: usuarioadmin
+Contraseña 1234
+Usuario: userdosoperario
+Contraseña 1234
+Usuario: useroperariotres
+Contraseña 1234
+
+Por default estan los datos de ingreso del usuario administrador.
+
+Nota: Respecto a las estadisticas no estan completas
+
